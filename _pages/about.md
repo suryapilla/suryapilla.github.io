@@ -9,5 +9,6 @@ redirect_from:
 ---
 
 
-📚📖📝: Currently pursuing Master's in Electrical and Computer Engineering, specializing in Robotics and Vision
+📚📖📝: I am urrently pursuing Master's in Electrical and Computer Engineering, specializing in Robotics and Vision
 
+🔬: My research is primarily focused on Vision and Robotics. In particular my interest lies in autonomous vehicles and hence my current work is on Simultaneous Localization and Mapping (SLAM).
