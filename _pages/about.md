@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "I am a Master's student from University of California San diego. Specializing in Intelligent Systems, Robotics and Control."
+title: "Hello! This is Surya 🌞"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -9,5 +9,5 @@ redirect_from:
 ---
 
 
+📚📖📝: Currently pursuing Master's in Electrical and Computer Engineering, specializing in Robotics and Vision
 
-Need to update
