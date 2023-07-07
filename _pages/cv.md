@@ -9,4 +9,5 @@ redirect_from:
 
 {% include base_path %}
 
-[Download CV here](https://github.com/suryapilla/suryapilla.github.io/blob/master/files/cv.pdf)
+[Download CV here](/files/cv.pdf)
+
