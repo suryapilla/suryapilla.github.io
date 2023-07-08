@@ -16,10 +16,10 @@ This repository showcases a collection of robotics and autonomous systems projec
 - Developed a Particle Filter algorithm for indoor localization and mapping of a differential-drive robot.  
 Utilized LiDAR data to generate a probabilistic occupancy grid of an unknown environment.
 
-<div style="display: flex; justify-content: center;">
+<!-- <div style="display: flex; justify-content: center;">
   <img src="gifs/OccupancyGrid_data21.gif" width="400" alt="Rubik's Cube 1" style="margin-right: 20px;">
   <img src="gifs/TextureMap_data21.gif" width="400" alt="Rubik's Cube 2">
-</div>
+</div> -->
 
 ### [Visual Inertial SLAM](https://github.com/suryapilla/VISLAM)
 - Implemented Visual Inertial SLAM (VI SLAM) using an Extended Kalman Filter approach.
@@ -30,20 +30,20 @@ Utilized LiDAR data to generate a probabilistic occupancy grid of an unknown env
 - Designed and implemented a dynamic programming algorithm for deterministic shortest path planning.
 - Optimized control actions to find the shortest path from a starting point to a key location while avoiding obstacles.
 
-<div style="display: flex; justify-content: center;">
-  <img src="gifs/doorkey_rand_8-10.gif" width="400" alt="Rubik's Cube 1" style="margin-right: 20px;">
-  <img src="gifs/doorkey_rand_8-36.gif" width="400" alt="Rubik's Cube 2">
-</div>
+<!-- <div style="display: flex; justify-content: center;">
+  <img src="gifs/doorkey_rand_8-10.gif" width="400" alt="NAvig 1" style="margin-right: 20px;">
+  <img src="gifs/doorkey_rand_8-36.gif" width="400" alt="Navig 2">
+</div> -->
 
 ### Trajectory Tracking
 - Solved a non-linear optimization problem using Python CasADi solver.
 - Developed an optimal control policy for accurate trajectory tracking.
 - Compared the performance of Receding-Horizon Certainty Equivalent Control and Generalized Policy Iteration techniques.
-
+<!-- 
 <div style="display: flex; justify-content: center;">
-  <img src="gifs/2_5_10.gif" width="400" alt="Rubik's Cube 1" style="margin-right: 20px;">
-  <img src="gifs/20_5_10_50T.gif" width="400" alt="Rubik's Cube 2">
-</div>
+  <img src="gifs/2_5_10.gif" width="400" alt="Tracking 1 style="margin-right: 20px;">
+  <img src="gifs/20_5_10_50T.gif" width="400" alt="Tracking 2">
+</div> -->
 
 ### Motion Planning
 - Compared search-based (A*) and sampling-based (RRT) algorithms in a continuous 3D environment.
