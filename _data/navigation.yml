@@ -14,12 +14,26 @@ main:
         
   # - title: "Blog Posts"
   #   url: /year-archive/
-    
+
+  - title: "Education"
+    url: /education/
+
+  - title: "Experience"
+    url: /experience/
+
+  - title: "Research"
+    url: /research/
+
+  - title: "Projects"
+    url: /projects/
+  
   - title: "CV"
     url: /files/cv.pdf
+
+  - title: "Certifications"
+    url: /certification/
     
   # - title: "Guide"
   #   url: /markdown/
 
-  - title: "Experience"
-    url: /experience/
+  

@@ -187,9 +187,23 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
+  education:
+    output: true
+    permalink: /:collection/:path/
   experience:
     output: true
     permalink: /:collection/:path/
+  research:
+    output: true
+    permalink: /:collection/:path/
+  projects:
+    output: true
+    permalink: /:collection/:path/
+  certifications:
+    output: true
+    permalink: /:collection/:path/
+
+
 
 
 # Defaults
@@ -248,12 +262,48 @@ defaults:
       author_profile: true
       share: true
     
+  # education
+  - scope:
+      path: ""
+      type: education
+    values:
+      layout: education
+      author_profile: true
+      share: true
+  
   # _experience
   - scope:
       path: ""
       type: experience
     values:
       layout: experience
+      author_profile: true
+      share: true
+
+  # _research
+  - scope:
+      path: ""
+      type: research
+    values:
+      layout: research
+      author_profile: true
+      share: true
+
+  # _projects
+  - scope:
+      path: ""
+      type: projects
+    values:
+      layout: projects
+      author_profile: true
+      share: true
+
+  # _certifications
+  - scope:
+      path: ""
+      type: certifications
+    values:
+      layout: certifications
       author_profile: true
       share: true
 
