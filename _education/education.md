@@ -12,7 +12,7 @@ author_profile: true
   <div style="flex: 1;">
     <h2>University of California, San Diego</h2>
     <p>Location: San Diego, CA, USA</p>
-    <p>Degree: MS Electrical and Computer Engineering</p>
+    <p>Degree: Masters in Electrical and Computer Engineering</p>
     <p>Specialization: Intelligent Systems, Robotics and Control</p>
     <p>Expected Graduation: June 2024</p>
   </div>

@@ -41,7 +41,7 @@ Utilized LiDAR data to generate a probabilistic occupancy grid of an unknown env
 - Compared the performance of Receding-Horizon Certainty Equivalent Control and Generalized Policy Iteration techniques.
 
 <div style="display: flex; justify-content: center;">
-  <img src="../gifs/2_5_10.gif" width="400" alt="Tracking 1 style="margin-right: 20px;">
+  <img src="../gifs/2_5_10.gif" width="400" alt="Tracking 1" style="margin-right: 20px;">
   <img src="../gifs/20_5_10_50T.gif" width="400" alt="Tracking 2">
 </div>
 
