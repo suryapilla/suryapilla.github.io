@@ -24,7 +24,10 @@ Utilized LiDAR data to generate a probabilistic occupancy grid of an unknown env
 ### [Visual Inertial SLAM](https://github.com/suryapilla/VISLAM)
 - Implemented Visual Inertial SLAM (VI SLAM) using an Extended Kalman Filter approach.
 - Fused sensor measurements from gyroscope, accelerometer, and camera to track the 3D pose of the robot and create a landmark map.
-
+<div style="display: flex; justify-content: center;">
+  <img src="../images/Traj_10.png" width="400" alt="Traj" style="margin-right: 20px;">
+  <img src="../images/Traj_feat_10.png" width="400" alt="Traj and features">
+</div>
 
 ### [Autonomous Navigation](https://github.com/suryapilla/Autonomous-Navigation)
 - Designed and implemented a dynamic programming algorithm for deterministic shortest path planning.
@@ -35,7 +38,7 @@ Utilized LiDAR data to generate a probabilistic occupancy grid of an unknown env
   <img src="../gifs/doorkey_rand_8-36.gif" width="400" alt="Navig 2">
 </div>
 
-### Trajectory Tracking
+### [Trajectory Tracking](https://github.com/suryapilla/Trajectory-Tracking.git)
 - Solved a non-linear optimization problem using Python CasADi solver.
 - Developed an optimal control policy for accurate trajectory tracking.
 - Compared the performance of Receding-Horizon Certainty Equivalent Control and Generalized Policy Iteration techniques.
@@ -45,8 +48,18 @@ Utilized LiDAR data to generate a probabilistic occupancy grid of an unknown env
   <img src="../gifs/20_5_10_50T.gif" width="400" alt="Tracking 2">
 </div>
 
-### Motion Planning
+### [Motion Planning](https://github.com/suryapilla/motion-planning.git)
 - Compared search-based (A*) and sampling-based (RRT) algorithms in a continuous 3D environment.
 - Evaluated their efficiency and effectiveness for generating collision-free paths.
+<div style="display: flex; justify-content: center;">
+  <img src="../images/maze_astar.png" width="400" alt="A *" style="margin-right: 20px;">
+  <img src="../images/maze_rrt.png" width="400" alt="RRT">
+</div>
+<br>
+<div style="display: flex; justify-content: center;">
+  <img src="../images/window_astar.png" width="400" alt="A *" style="margin-right: 20px;">
+  <img src="../images/window_rrt.png" width="400" alt="RRT">
+</div>
+
 
 These projects demonstrate my proficiency in robotics algorithms, sensor fusion, path planning, and control optimization. Each project represents my ability to apply theoretical concepts to practical robotics challenges.
