@@ -8,7 +8,7 @@ author_profile: true
 
 {% include base_path %}
 
-## Honeywell Technology Solutions | BU: Safety and Productivity Systems
+## 1. Honeywell Technology Solutions | BU: Safety and Productivity Systems
 
 Location: Bangalore, India
 
@@ -32,7 +32,7 @@ Duration: July 2019 – July 2022
 ### Innovation
 - Prototyped a novel visible plus thermal camera-based flame detection system for the annual innovation challenge. This solution utilized Computer Vision (CV), deep learning, and TinyML frameworks, contributing to the creation of high-value Intellectual Property.
 
-## Visteon Technical and Services Centre Pvt Ltd
+## 2. Visteon Technical and Services Centre Pvt Ltd
 
 Location: Chennai, India
 

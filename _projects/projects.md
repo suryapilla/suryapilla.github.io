@@ -13,21 +13,37 @@ author_profile: true
 This repository showcases a collection of robotics and autonomous systems projects that I have worked on. Each project demonstrates my expertise in various areas of robotics, including SLAM, autonomous navigation, trajectory tracking, and motion planning.
 
 ### [Particle Filter SLAM](https://github.com/suryapilla/Particle-Filter-SLAM)  
-Developed a Particle Filter algorithm for indoor localization and mapping of a differential-drive robot.  
+- Developed a Particle Filter algorithm for indoor localization and mapping of a differential-drive robot.  
 Utilized LiDAR data to generate a probabilistic occupancy grid of an unknown environment.
+
+<div style="display: flex; justify-content: center;">
+  <img src="gifs/OccupancyGrid_data21.gif" width="400" alt="Rubik's Cube 1" style="margin-right: 20px;">
+  <img src="gifs/TextureMap_data21.gif" width="400" alt="Rubik's Cube 2">
+</div>
 
 ### [Visual Inertial SLAM](https://github.com/suryapilla/VISLAM)
 - Implemented Visual Inertial SLAM (VI SLAM) using an Extended Kalman Filter approach.
 - Fused sensor measurements from gyroscope, accelerometer, and camera to track the 3D pose of the robot and create a landmark map.
 
+
 ### [Autonomous Navigation](https://github.com/suryapilla/Autonomous-Navigation)
 - Designed and implemented a dynamic programming algorithm for deterministic shortest path planning.
 - Optimized control actions to find the shortest path from a starting point to a key location while avoiding obstacles.
+
+<div style="display: flex; justify-content: center;">
+  <img src="gifs/doorkey_rand_8-10.gif" width="400" alt="Rubik's Cube 1" style="margin-right: 20px;">
+  <img src="gifs/doorkey_rand_8-36.gif" width="400" alt="Rubik's Cube 2">
+</div>
 
 ### Trajectory Tracking
 - Solved a non-linear optimization problem using Python CasADi solver.
 - Developed an optimal control policy for accurate trajectory tracking.
 - Compared the performance of Receding-Horizon Certainty Equivalent Control and Generalized Policy Iteration techniques.
+
+<div style="display: flex; justify-content: center;">
+  <img src="gifs/2_5_10.gif" width="400" alt="Rubik's Cube 1" style="margin-right: 20px;">
+  <img src="gifs/20_5_10_50T.gif" width="400" alt="Rubik's Cube 2">
+</div>
 
 ### Motion Planning
 - Compared search-based (A*) and sampling-based (RRT) algorithms in a continuous 3D environment.
