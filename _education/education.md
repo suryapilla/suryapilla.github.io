@@ -8,7 +8,7 @@ author_profile: true
 
 {% include base_path %}
 
-<img src="images/jacobs.jpeg" alt="Image description" align="right" width="200" height="200">
+<img src="images/jacobs.jpeg" alt="Image description" .align="right" width="200" height="200">
 
 ## University of California, San Diego
 
