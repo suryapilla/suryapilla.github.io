@@ -19,7 +19,10 @@ I am primarily engaged in studying Vision and Robotics, with a specific focus on
 🧩🧩🧩
 I derive immense satisfaction from unraveling puzzles and addressing practical issues. During my leisure time, I indulge in solving various versions of the Rubik's Cube, further fueling my passion for problem-solving.
 
-<img src="images/cube1.jpeg">  <img src="images/cube2.jpeg" > 
+<p align="center">
+  <img src="images/cube1.jpeg" width="400" alt="Rubik's Cube 1">
+  <img src="images/cube2.jpeg" width="400" alt="Rubik's Cube 2">
+</p>
 
 ⛺⛺⛺
 I possess an adventurous spirit and an insatiable curiosity to explore and travel. I firmly believe that the trips that you plan the least are the trips that you enjoy the most, as they offer unexpected and delightful experiences.
