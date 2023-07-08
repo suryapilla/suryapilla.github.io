@@ -9,12 +9,18 @@ redirect_from:
 ---
 
 
-📚📖📝: I am currently pursuing Master's in Electrical and Computer Engineering, specializing in Robotics and Vision
 
-🔬: I am primarily engaged in studying Vision and Robotics, with a specific focus on autonomous vehicles. Consequently, my ongoing research revolves around Simultaneous Localization and Mapping (SLAM).
+📚📖📝
+I am currently pursuing Master's in Electrical and Computer Engineering, specializing in Robotics and Vision.
 
+🔬
+I am primarily engaged in studying Vision and Robotics, with a specific focus on autonomous vehicles. Consequently, my ongoing research revolves around Simultaneous Localization and Mapping (SLAM). In my academic endeavors, I have actively pursued research in various fields such as Image Processing, Embedded Systems, Controls, Robotics, Computer Vision, and Machine Learning. These broad areas of expertise have enabled me to tackle significant challenges in industry successfully.
 
+🧩🧩🧩
+I derive immense satisfaction from unraveling puzzles and addressing practical issues. During my leisure time, I indulge in solving various versions of the Rubik's Cube, further fueling my passion for problem-solving.
+|           Unsolved            |            Solved            |
+| :-------------------------------------: | :--------------------------------------: |
+| <img src="images/cube1.jpeg"> | <img src="images/cube2.jpeg" > |
 
-Throughout my academic projects, I have engaged in diverse research areas. I have developed a Particle Filter for indoor localization and mapping using LiDAR, implemented Visual Inertial SLAM using an Extended Kalman Filter, and designed algorithms for autonomous navigation, trajectory tracking, and motion planning.
-
-With my strong educational background, technical proficiency in programming languages and frameworks such as Python, C++, PyTorch, TensorFlow, Keras, OpenCV, and TinyML, as well as experience in software and computing environments, I am well-prepared to make valuable contributions to the field of robotics and autonomous vehicles.
+⛺⛺⛺
+I possess an adventurous spirit and an insatiable curiosity to explore and travel. I firmly believe that the trips that you plan the least are the trips that you enjoy the most, as they offer unexpected and delightful experiences.
