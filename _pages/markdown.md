@@ -22,7 +22,7 @@ redirect_from:
   * _experience/
   * _research/
   * _projects/
-  * _certifications
+  * _certifications/
 
 
 * Footer: _includes/footer.html

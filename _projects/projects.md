@@ -16,11 +16,11 @@ This repository showcases a collection of robotics and autonomous systems projec
 Developed a Particle Filter algorithm for indoor localization and mapping of a differential-drive robot.  
 Utilized LiDAR data to generate a probabilistic occupancy grid of an unknown environment.
 
-## Visual Inertial SLAM
+## [Visual Inertial SLAM](https://github.com/suryapilla/VISLAM)
 - Implemented Visual Inertial SLAM (VI SLAM) using an Extended Kalman Filter approach.
 - Fused sensor measurements from gyroscope, accelerometer, and camera to track the 3D pose of the robot and create a landmark map.
 
-## Autonomous Navigation
+## [Autonomous Navigation](https://github.com/suryapilla/Autonomous-Navigation)
 - Designed and implemented a dynamic programming algorithm for deterministic shortest path planning.
 - Optimized control actions to find the shortest path from a starting point to a key location while avoiding obstacles.
 
@@ -34,5 +34,3 @@ Utilized LiDAR data to generate a probabilistic occupancy grid of an unknown env
 - Evaluated their efficiency and effectiveness for generating collision-free paths.
 
 These projects demonstrate my proficiency in robotics algorithms, sensor fusion, path planning, and control optimization. Each project represents my ability to apply theoretical concepts to practical robotics challenges.
-
-Note: The above information is a template and should be modified to reflect your specific projects and experiences.
