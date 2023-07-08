@@ -8,6 +8,8 @@ author_profile: true
 
 {% include base_path %}
 
+<img src="images/jacobs.png" alt="Image description" align="right" width="200" height="200">
+
 ## University of California, San Diego
 
 Location: San Diego, CA, USA
@@ -25,3 +27,5 @@ Location: Tirupati, India
 Degree: Bachelor of Technology in Electrical Engineering
 
 Duration: August 2019 - (Expected) June 2023
+
+
