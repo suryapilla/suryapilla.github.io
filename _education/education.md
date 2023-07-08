@@ -8,7 +8,7 @@ author_profile: true
 
 {% include base_path %}
 
-# University of California, San Diego
+## University of California, San Diego
 
 Location: San Diego, CA, USA
 
@@ -18,7 +18,7 @@ Specialization: Intelligent Systems, Robotics and Control
 
 Expected Graduation: June 2024
 
-# Indian Institute of Technology (IIT), Tirupati
+## Indian Institute of Technology (IIT), Tirupati
 
 Location: Tirupati, India
 
