@@ -31,7 +31,7 @@ main:
     url: /files/cv.pdf
 
   - title: "Certifications"
-    url: /certification/
+    url: /certifications/
     
   # - title: "Guide"
   #   url: /markdown/
