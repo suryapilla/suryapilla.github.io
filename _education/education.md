@@ -8,7 +8,10 @@ author_profile: true
 
 {% include base_path %}
 
-<img src="images/jacobs.jpeg" alt="Image description" .align="right" width="200" height="200">
+
+<p align="right">
+<img src="../images/profile.png" alt="Door-key Problem" width="500"/></br>
+</p>
 
 ## University of California, San Diego
 
