@@ -61,5 +61,8 @@ Utilized LiDAR data to generate a probabilistic occupancy grid of an unknown env
   <img src="../images/window_rrt.png" width="400" alt="RRT">
 </div>
 
+### [Image segmentation for Carla Dataset](../files/segmentation.pdf)
+- Trained a PyTorch-based UNet architecture with attention and the Deeplabv3 with Resnet 101
+backbone architecture to perform semantic segmentation for road object detection on a pixel level achiving accuracy of 91 and 82 respectively.
 
 These projects demonstrate my proficiency in robotics algorithms, sensor fusion, path planning, and control optimization. Each project represents my ability to apply theoretical concepts to practical robotics challenges.
