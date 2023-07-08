@@ -29,7 +29,7 @@ author_profile: true
   - Spearheaded the NSS team at IIT Tirupati.
   - Conducted a feasibility study in three out of five adopted villages for the Rural Development program
   - Assessed the requirements, challenges, and potential impact of the program on the local communities
-  - Participated in rural development program (NSS) and was instrumental in conducting a feasibility study at 3 out 5 villages
+  - Participated in rural development program (NSS) and was instrumental in conducting a feasibility study at 3 out of 5 villages that have been adopted by IIT Tirupati for Rural development program
   - Coordinated institutional NSS activities for students and organized student visits accordingly
   - Organized funding for “Abhayakshetram” (Orphanage) and educational campaigns for “Navajeevan Blind School”
 

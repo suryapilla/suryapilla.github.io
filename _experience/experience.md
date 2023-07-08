@@ -26,6 +26,7 @@ Duration: July 2019 – July 2022
 ### Achievements
 - Filed 6 Trade Secrets and 2 U.S. patent applications, resulting in 8 IP awards. The applications are currently under review.
 - Awarded the Diamond award for securing the 2nd position out of 276 ideas presented at the annual innovation competition, SParkS.
+- Awarded the Silver award for developing new Fire Path for flame detector.
 - Received the Silver award for developing a new Fire Path for the flame detector.
 - Certified as a Six Sigma Green Belt in DFSS Hardware and completed an AI/ML Bootcamp.
 
