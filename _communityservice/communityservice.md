@@ -8,9 +8,7 @@ author_profile: true
 
 {% include base_path %}
 
-Here's an example of how you could write a README file on GitHub to showcase your volunteering and leadership experiences:
-
-# Volunteer and Leadership Experiences
+## Volunteer and Leadership Experiences
 
 - **Corporate Social Responsibility (CSR) Visit to Agastya Foundation at Honeywell, 2019:**
   - Volunteered for a CSR visit to Agastya Foundation at Honeywell.
@@ -23,9 +21,16 @@ Here's an example of how you could write a README file on GitHub to showcase you
 - **Student General Secretary of IIT Tirupati, 2017:**
   - Represented the student community as the Student General Secretary of IIT Tirupati.
   - Actively participated in the senate meeting, contributing to decision-making processes and voicing student concerns.
+  - Administered the first technical workshop (Topic-IoT) in IIT Tirupati, August 2016
+  - Collaborated with XLr8AP, a technology business accelerator, to secure summer internships for IIT Tirupati sophomore class, April 2017
+  - Convened ANFANG (the first Tech-Fest) of IIT Tirupati, with 10 plus events and a turnover of ₹3.5 Lakhs, March 2017
 
 - **National Social Scheme (NSS) Feasibility Study, 2017:**
   - Spearheaded the NSS team at IIT Tirupati.
-  - Conducted a feasibility study in three out of five adopted villages for the Rural Development program.
-  - Assessed the requirements, challenges, and potential impact of the program on the local communities.
+  - Conducted a feasibility study in three out of five adopted villages for the Rural Development program
+  - Assessed the requirements, challenges, and potential impact of the program on the local communities
+  - Participated in rural development program (NSS) and was instrumental in conducting a feasibility study at 3 out 5 villages
+  - Coordinated institutional NSS activities for students and organized student visits accordingly
+  - Organized funding for “Abhayakshetram” (Orphanage) and educational campaigns for “Navajeevan Blind School”
+
 
