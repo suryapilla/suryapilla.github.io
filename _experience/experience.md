@@ -1,4 +1,5 @@
 ---
+layout: archive
 title: "Experience"
 collection: experience
 permalink: /experience/
