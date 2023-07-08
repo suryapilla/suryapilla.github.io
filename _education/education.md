@@ -29,4 +29,4 @@ Location: Tirupati, India
 
 Degree: Bachelor of Technology in Electrical Engineering
 
-Duration: August 2019 - (Expected) June 2023
+Duration: August 2015 - August 2019
