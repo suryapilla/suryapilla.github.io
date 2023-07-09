@@ -14,13 +14,17 @@ I am currently pursuing Master's in Electrical and Computer Engineering, special
 
 ## 🔬
 I am primarily engaged in studying Vision and Robotics, with a specific focus on autonomous vehicles. Consequently, my ongoing research revolves around Simultaneous Localization and Mapping (SLAM). In my academic endeavors, I have actively pursued research in various fields such as Image Processing, Embedded Systems, Controls, Robotics, Computer Vision, and Machine Learning. These broad areas of expertise have enabled me to tackle real-life industrial challenges successfully.
+<div style="display: flex; justify-content: center;">
+  <img src="../images/window_astar.png" width="400" alt="A *" style="margin-right: 20px;">
+  <img src="../gifs/doorkey_rand_8-16.gif" width="400" alt="RRT">
+</div>
 
 ## 🧩🎲🧩
 I derive immense satisfaction from unraveling puzzles and addressing practical issues. During my leisure time, I indulge in solving various versions of the Rubik's Cube, further fueling my passion for problem-solving.
 
 <div style="display: flex; justify-content: center;">
-  <img src="images/cube1.jpeg" width="400" alt="Rubik's Cube 1" style="margin-right: 20px;">
-  <img src="images/cube2.jpeg" width="400" alt="Rubik's Cube 2">
+  <img src="../images/cube1.jpeg" width="400" alt="Rubik's Cube 1" style="margin-right: 20px;">
+  <img src="../images/cube2.jpeg" width="400" alt="Rubik's Cube 2">
 </div>
 
 ## 🧳✈️⛺
