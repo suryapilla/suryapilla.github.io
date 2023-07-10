@@ -35,7 +35,7 @@ Utilized LiDAR data to generate a probabilistic occupancy grid of an unknown env
 
 <div style="display: flex; justify-content: center;">
   <img src="../gifs/doorkey_rand_8-10.gif" width="400" alt="NAvig 1" style="margin-right: 20px;">
-  <img src="../gifs/doorkey_rand_8-36.gif" width="400" alt="Navig 2">
+  <img src="../gifs/doorkey_rand_8-16.gif" width="400" alt="Navig 2">
 </div>
 
 ### [Trajectory Tracking](https://github.com/suryapilla/Trajectory-Tracking.git)
