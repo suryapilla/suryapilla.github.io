@@ -9,5 +9,5 @@ redirect_from:
 
 {% include base_path %}
 
-[Download CV here](/files/cv.pdf)
+[Download CV here](/files/Resume_Surya_Pilla.pdf)
 
