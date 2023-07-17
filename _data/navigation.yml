@@ -30,8 +30,8 @@ main:
   - title: "CV"
     url: /files/cv.pdf
   
-  - title: "Resume"
-    url: /resume/
+  # - title: "Resume"
+  #   url: /resume/
 
   - title: "Certifications"
     url: /certifications/
