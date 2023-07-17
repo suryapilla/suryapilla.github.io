@@ -48,7 +48,7 @@ Utilized LiDAR data to generate a probabilistic occupancy grid of an unknown env
   <img src="../gifs/20_5_10_50T.gif" width="400" alt="Tracking 2">
 </div>
 
-### [Motion Planning](https://github.com/suryapilla/motion-planning.git)
+### [Motion Planning](https://github.com/suryapilla/Motion-Planning.git)
 - Compared search-based (A*) and sampling-based (RRT) algorithms in a continuous 3D environment.
 - Evaluated their efficiency and effectiveness for generating collision-free paths.
 <div style="display: flex; justify-content: center;">
