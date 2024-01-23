@@ -8,6 +8,9 @@ author_profile: true
 
 {% include base_path %}
 
+### University of California San Diego
+1. [MicroMBA](../images/MicroMBA.pdf): For successfully completing MicroMBA from Rady School of Business University of California San Diego
+
 ### Honeywell 2019-2022:
 1. [AI/ML Bootcamp Certification](../images/AIMLBootcamp.png): For successfully completing AI/ML bootcamp and ideating a product
 2. [Six Sigma Green Belt in DFSS Hardware](../images/sixSigma.png): For successfully completing six sigma green belt capstone project
