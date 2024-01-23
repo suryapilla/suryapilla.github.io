@@ -24,7 +24,9 @@ Duration: July 2019 – July 2022
 - Mentored 3 interns in the areas of Machine Learning (ML) and Computer Vision (CV), providing guidance on technical aspects and fostering professional efficiency.
 
 ### Achievements
-- Filed 6 Trade Secrets and 2 U.S. patent applications, resulting in 8 IP awards. The applications are currently under review.
+- Patent No. 20240021059, published on 01/18/2024, in the United States Patent and Trademark Office.
+- Patent No. 20230408476, published on 12/21/2023, in the United States Patent and Trademark Office.
+- Filed 6 Trade Secrets and 2 U.S. patent applications, resulting in 8 IP awards.
 - Awarded the Diamond award for securing the 2nd position out of 276 ideas presented at the annual innovation competition, SParkS.
 - Awarded the Silver award for developing new Fire Path for flame detector.
 - Received the Silver award for developing a new Fire Path for the flame detector.

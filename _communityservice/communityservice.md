@@ -10,6 +10,10 @@ author_profile: true
 
 ## Volunteer and Leadership Experiences
 
+- **Volunteered for MicroMBA program 2023:**
+  - Hosted 5 networking events for 2023 MicroMBA program at the Rady School of Management, June 2023
+
+
 - **Corporate Social Responsibility (CSR) Visit to Agastya Foundation at Honeywell, 2019:**
   - Volunteered for a CSR visit to Agastya Foundation at Honeywell.
   - Engaged in activities aimed at supporting educational initiatives and empowering underprivileged children.
