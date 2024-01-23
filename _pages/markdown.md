@@ -21,6 +21,7 @@ redirect_from:
   * _education/
   * _experience/
   * _research/
+  * _patents/
   * _projects/
   * _certifications/
 
