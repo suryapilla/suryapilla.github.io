@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Patents and Publications"
+title: "Patents/Publications"
 collection: patents
 permalink: /patents/
 author_profile: true
